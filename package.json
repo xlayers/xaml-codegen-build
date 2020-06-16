@@ -1,0 +1,22 @@
+{
+  "name": "@xlayers/xaml-codegen",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0",
+    "@xlayers/sketch-lib": "*"
+  },
+  "main": "bundles/xlayers-xaml-codegen.umd.js",
+  "module": "fesm5/xlayers-xaml-codegen.js",
+  "es2015": "fesm2015/xlayers-xaml-codegen.js",
+  "esm5": "esm5/xlayers-xaml-codegen.js",
+  "esm2015": "esm2015/xlayers-xaml-codegen.js",
+  "fesm5": "fesm5/xlayers-xaml-codegen.js",
+  "fesm2015": "fesm2015/xlayers-xaml-codegen.js",
+  "typings": "xlayers-xaml-codegen.d.ts",
+  "metadata": "xlayers-xaml-codegen.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

@@ -1,0 +1,11 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { XamarinFormsCodeGenVisitor, XamlCodeGenModule } from './public_api';
+export { CodeGenVisitor as ɵb } from './lib/codegenvisitor.service';
+export { XmlCodeGenVisitor as ɵa } from './lib/xmlcodegenvisitor.service';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoieGxheWVycy14YW1sLWNvZGVnZW4uanMiLCJzb3VyY2VSb290Ijoibmc6Ly9AeGxheWVycy94YW1sLWNvZGVnZW4vIiwic291cmNlcyI6WyJ4bGF5ZXJzLXhhbWwtY29kZWdlbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsOERBQWMsY0FBYyxDQUFDO0FBRTdCLE9BQU8sRUFBQyxjQUFjLElBQUksRUFBRSxFQUFDLE1BQU0sOEJBQThCLENBQUM7QUFDbEUsT0FBTyxFQUFDLGlCQUFpQixJQUFJLEVBQUUsRUFBQyxNQUFNLGlDQUFpQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpY19hcGknO1xuXG5leHBvcnQge0NvZGVHZW5WaXNpdG9yIGFzIMm1Yn0gZnJvbSAnLi9saWIvY29kZWdlbnZpc2l0b3Iuc2VydmljZSc7XG5leHBvcnQge1htbENvZGVHZW5WaXNpdG9yIGFzIMm1YX0gZnJvbSAnLi9saWIveG1sY29kZWdlbnZpc2l0b3Iuc2VydmljZSc7Il19
